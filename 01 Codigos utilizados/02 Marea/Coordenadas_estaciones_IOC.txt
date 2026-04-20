@@ -1,0 +1,8 @@
+#Coordenadas estaciones a usar
+#Estacion;Latitud;Longitud
+----------------------------------------
+Cahuil;-34.479914;-72.025633
+San_Antonio_CL;-33.581625;-71.618188
+Boyeruca_CL;-34.6873055;-72.05786
+Constitucion_CL;-35.355725;-72.457031
+Santa Teresa_caudal;-33.6836;-71.3638
